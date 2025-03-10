@@ -50,7 +50,7 @@ const Navbar: React.FC = () => {
                     alignItems: 'center',
                     justifyContent: 'center',
                     padding: '16px 0',
-                    backgroundColor: '#000000', // ✅ White background
+                    backgroundColor: '#002b4b', // ✅ White background
                     borderBottom: '2px solid #E5E7EB', // ✅ Subtle bottom border for separation
                 }}
             >
